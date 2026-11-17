@@ -118,7 +118,7 @@ export default function Contact() {
                                 <div>
                                     <h4 className="font-bold text-zinc-900 dark:text-white text-xs">Instagram</h4>
                                     <a
-                                        href="https://www.instagram.com/machine.aa_"
+                                        href="https://www.instagram.com/machine.mx_"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="text-zinc-600 dark:text-zinc-400 text-xs hover:text-fuchsia-600 dark:hover:text-fuchsia-400 transition-colors inline-block"
